@@ -23,6 +23,8 @@ body {
   padding: 30px;
   color: var(--Softblue);
   display: flex;
+  height: 100vh;
+  align-items: center;
 }
 
 .main {
